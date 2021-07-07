@@ -16,7 +16,7 @@
   "accessWidener": "seedy.accesswidener",
   "depends": {
     "fabricloader": ">=0.10.8",
-    "minecraft": ">=1.16.2"
+    "minecraft": ">=1.17"
   },
   "custom": {
     "modmenu:api": true
